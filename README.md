@@ -6,7 +6,6 @@
 
 I am 23 years old and I am a PHP developer with 5 years of experience
 
-- 🔭 Currently I work at Bank Respublika OJSC.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abdukhaligov)
 
 
