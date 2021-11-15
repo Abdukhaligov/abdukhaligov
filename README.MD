@@ -5,3 +5,5 @@
 [![Telegram Badge](https://img.shields.io/badge/-@Abdukhaligov-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/Abdukhaligov "Contact on Telegram")
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abdukhaligov)
+
+![](https://komarev.com/ghpvc/?username=abdukhaligov&color=blueviolet)
